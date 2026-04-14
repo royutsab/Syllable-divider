@@ -1,0 +1,36 @@
+# Y sometime act as vowel(interesting)
+                                                                  vc|cv rule
+                                                                  ----------
+*digraphs should never be broken apart.(diagraphs are: KN,CH,SH,TH,WH,PH,CK,NG,WR,GH,SC,SK,SL,SM,SN,NP,ST,SSW,TR,TW,QU)
+*the split must happen between two consonants
+examples:  c h i c k | e n   R a b | b i t   a f | t e r   B a l | l o o n
+           c c v c c   v c   c v c   c v c   v c   c v c   c v c   c v v c
+                                                                  C+le rule
+                                                                  ---------
+*c+le rule states that a word ending in -le should be broken before the consonant so that the last syllable is the consonant +le.
+examples: t a | b l e    A p | p l e   s t a | b l e   
+          c v   c c v    v c   c c v   c c v   c c v
+                                                                  v|cv and vc|v rule
+                                                                  ------------------
+*It requires understanding whether the first syllable contains a long vowel or short.(check out the longandshortvowelrules.txt)
+*if the first syllable contains a long vowel ,the syllable split should occur after the vowel and before consonant.
+ and if it's short vowel, split occurs after the consonants.
+examples: b a | b y    t r i | b a l     s i s | t e r      t i | m e r     v i v | i d     s i | l e n t
+          c v   c v    c c v   c v c     c v c   c v c      c v   c v c     c v c   v c     c v   c v c c
+            _______        _______        (exception)         _______         _______         _______
+
+                                                                  v|v rule
+                                                                  --------
+*vowel team(no split): ai,ay,ee,ea,oa,oe,oi,oy,oo,ou,ow,au,aw
+*split vowel team: ia,io,eo,ua,ui,ie
+#it states that a syllable break should come between split vowel team.
+examples:  l i | o n    t r i | a l    c o | i l     f l u | i d      d i | e t
+           c v   v c    c c v   v c   (exception)    c c v   v c      c v   v c
+
+                                                                  vc|ccv and vcc|cv rule
+                                                                  ----------------------
+*when three consonants appear together syllable division should come after 1st or 2nd consonant.
+**some words tends to stay together,like(st,cl,cr,dr,dr,mp,nk,br)
+examples:   p u m p | k i n      p a r t | n e r     d o l | p h i n     h u n | d r e d     p i l | g r i m     e x | p l o d e
+                ___
+ 
