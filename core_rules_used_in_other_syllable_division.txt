@@ -1,0 +1,11 @@
+#The Core Logic (Written Method)
+*The most common algorithm for processing written text follows these steps:
+ Count all vowels (a,e,i,o,u).
+*Subtract vowel teams: If two or more vowels are adjacent, 
+ they often count as only one sound (e.g., "oa" in boat, "eau" in beauty).
+*Subtract silent vowels: Remove the count for a silent "e" at the end of a word (e.g., bake, side), 
+ unless the word is very short (e.g., be, me).
+*Add for "-le" endings: If a word ends in a consonant followed by "-le" (e.g., table, apple),
+ add one syllable back because the "l" creates a new sound.
+*Apply the V/V Rule: Add a syllable if two adjacent vowels are not a team 
+ and must be split (e.g., lion, trio, chaos).
