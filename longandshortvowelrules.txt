@@ -1,0 +1,29 @@
+rules
+------
+#You can determine vowel sounds by examining the letters surrounding the vowel: 
+#short vowel
+*Short vowels make a "quick" sound that is not the letter's name (e.g., the 'a' in "cat" sounds like "ah"). 
+*CVC Pattern: If a single vowel is "trapped" between two consonants, it is usually short.
+*Examples: Cat, Bed, Pig, Dog, Sun.
+*Double Consonants: If a vowel is followed by two of the same consonant (like 'll' or 'ss'), it is almost always short.
+*Examples: Fall, Miss, Pass, Smell, Bunny.
+*Closed Syllables (Short Vowels): If a syllable ends in a consonant (e.g., cat, dog, sit), the vowel is usually short.
+
+#Long vowels usually "say their name" (e.g., the 'a' in "cake" sounds like the letter A). Look for these three patterns: 
+*Magic E /Silent 'e' (CVCe pattern): If a word ends in an 'e', it often makes the previous vowel long while the 'e' itself stays silent.
+*Examples: Cake, Bike, Home, Mule.
+*Vowel Teams: When two vowels are side-by-side, the first one is usually long and the second is silent ("When two vowels go walking, the first one does the talking").
+*Examples: Rain (ai), Boat (oa), Feet (ee), Eat (ea).
+*Open Syllables (Long Vowels): If a syllable ends with a vowel (e.g., he, go,Me, Hero, Acorn), it often makes a long sound.
+                                               *Detailed Explanation
+                                                Long Vowel Sound: In the word "acorn," the letter "a" makes the long /ā/ sound, which sounds exactly like the name of the letter "a".
+                                                Why It Is Long: A long vowel is typically used when the vowel says its own name.
+                                                In "acorn," the first syllable "a-" is an open syllable, which often results in a long vowel sound. 
+Excceptions
+------------
+#English is notorious for not following phonics rules perfectly. Some notable exceptions include:
+*Silent 'e' Failure: Words like have or give contain a silent 'e' but maintain a short vowel sound.
+*Vowel Team Deviations: While 'ea' often makes a long 'e' sound (e.g., meat), it can be short in words like steak or bread.
+#Explain the Four Markers
+*The Second Exception involves the markers, x, ck, tch, and dg. 
+*They are called markers because, like doubled consonants, they reliably mark the vowel sound preceding them as a First Vowel Sound (the short sound).
